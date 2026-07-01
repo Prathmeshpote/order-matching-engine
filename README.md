@@ -105,6 +105,3 @@ Processed 1000000 orders in 699 ms
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — see the `LICENSE` file for details.
